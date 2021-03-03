@@ -1,2 +1,3 @@
 # game0
-game
+## game notice
+## game design
